@@ -1,3 +1,3 @@
 {
-    "mongoURI" : "mongodb+srv://MONIKA20:haachihaachi@cluster0.0saeo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority/mern-gallery"
+    "mongoURI" : "mongodb+srv://MONIKA20:haachihaachi@cluster0.0saeo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
